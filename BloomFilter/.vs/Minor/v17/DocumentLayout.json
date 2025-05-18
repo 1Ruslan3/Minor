@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\BloomFilter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0F6A67-4A80-42A1-BDCD-1724531672CF}|BloomFilter\\BloomFilter.csproj|c:\\users\\user\\source\\repos\\bloomfilter\\bloomfilter\\hashfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0F6A67-4A80-42A1-BDCD-1724531672CF}|BloomFilter\\BloomFilter.csproj|solutionrelative:bloomfilter\\hashfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0F6A67-4A80-42A1-BDCD-1724531672CF}|BloomFilter\\BloomFilter.csproj|c:\\users\\user\\source\\repos\\bloomfilter\\bloomfilter\\bloom_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0F6A67-4A80-42A1-BDCD-1724531672CF}|BloomFilter\\BloomFilter.csproj|solutionrelative:bloomfilter\\bloom_filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0F6A67-4A80-42A1-BDCD-1724531672CF}|BloomFilter\\BloomFilter.csproj|c:\\users\\user\\source\\repos\\bloomfilter\\bloomfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0F6A67-4A80-42A1-BDCD-1724531672CF}|BloomFilter\\BloomFilter.csproj|solutionrelative:bloomfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BloomFilter\\BloomFilter\\Program.cs",
+              "RelativeDocumentMoniker": "BloomFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BloomFilter\\BloomFilter\\Program.cs",
+              "RelativeToolTip": "BloomFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:06:03.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashFunction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BloomFilter\\BloomFilter\\HashFunction.cs",
+              "RelativeDocumentMoniker": "BloomFilter\\HashFunction.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BloomFilter\\BloomFilter\\HashFunction.cs",
+              "RelativeToolTip": "BloomFilter\\HashFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:36:18.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bloom_filter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BloomFilter\\BloomFilter\\Bloom_filter.cs",
+              "RelativeDocumentMoniker": "BloomFilter\\Bloom_filter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BloomFilter\\BloomFilter\\Bloom_filter.cs",
+              "RelativeToolTip": "BloomFilter\\Bloom_filter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:54:34.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
